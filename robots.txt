@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://skrich.github.io/home/sitemap.xml
+Sitemap: https://skrich.github.io/blog//sitemap.xml
