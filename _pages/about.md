@@ -33,4 +33,4 @@ Welcome! I'm a linguist, educator, researcher, and data analyst working on proje
 
 <b>Currently based in:</b> Montreal, QC.
 
-<b>Find me:</b> [OSF](https://osf.io/6d68j/) | [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) | [ORCHID](https://orcid.org/0000-0003-2961-2265)
+<b>Find me:</b>   [LinkedIn](https://www.linkedin.com/in/stephaniekrich/) \| [OSF](https://osf.io/6d68j/) \| [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) \| [ORCHID](https://orcid.org/0000-0003-2961-2265)
