@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: linguist, educator, researcher, data analyst # <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+# subtitle: linguist, educator, researcher, data analyst # <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Contact: stephanie.ks.rich [at] gmail [dot] com</p>
-    <p>Currently based in: Montreal, QC. </p>
-    <p>Find me: [OSF](https://osf.io/6d68j/) | [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) | [ORCHID](https://orcid.org/0000-0003-2961-2265) </p>
+  # more_info: >
+    # <p>Contact: stephanie.ks.rich [at] gmail [dot] com</p>
+    # <p>Currently based in: Montreal, QC. </p>
+    # <p>Find me: [OSF](https://osf.io/6d68j/) | [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) | [ORCHID](https://orcid.org/0000-0003-2961-2265) </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I'm a linguist, educator, researcher, and data analyst working on projects involving language comprehension, memory, and reading. I've just completed a postdoctoral research fellowship at Concordia University, and before then earned my Ph.D. in Linguistics at the University of California, Santa Cruz in June 2024.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Contact:</b> stephanie.ks.rich [at] gmail [dot] com
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<b>Currently based in:</b> Montreal, QC.
+
+<b>Find me:</b> [OSF](https://osf.io/6d68j/) | [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) | [ORCHID](https://orcid.org/0000-0003-2961-2265)
