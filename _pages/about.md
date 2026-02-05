@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: linguist, educator, researcher, data analyst <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
+subtitle: linguist, educator, researcher, data analyst # <!-- <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc. -->
 
 profile:
   align: right
