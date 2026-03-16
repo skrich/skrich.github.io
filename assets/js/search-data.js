@@ -42,9 +42,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-sentence-comprehension-in-person-with-aphasia",
-          title: 'sentence comprehension in person with aphasia',
-          description: "with background image",
+            },},{id: "projects-sentence-comprehension-in-persons-with-aphasia",
+          title: 'sentence comprehension in persons with aphasia',
+          description: "processing syntactic complexity and pragmatic implausibility",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
