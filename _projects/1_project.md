@@ -8,7 +8,7 @@ category: psycholinguistics research
 related_publications: false
 ---
 
-In collaboration with: Roberto G. de Almeida, Paul Stan, and Caitlyn Antal at the [Psycholinguistics & Cognition Lab](https://psycholinguistics.weebly.com/people.html). 
+In collaboration with: Roberto G. de Almeida, Caitlyn Antal, and Paul Stan at the [Psycholinguistics & Cognition Lab](https://psycholinguistics.weebly.com/people.html). 
 
 We investigate patterns of comprehension for persons with aphasia in reading implausible, syntactically complex sentences. Manuscript currently in preparation.
 
