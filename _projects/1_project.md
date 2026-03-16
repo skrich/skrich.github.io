@@ -1,11 +1,11 @@
 ---
 layout: page
-title: sentence comprehension in person with aphasia
-description: with background image
+title: sentence comprehension in persons with aphasia
+description: processing syntactic complexity and pragmatic implausibility
 # img: assets/img/12.jpg
 importance: 1
 category: psycholinguistics research
-related_publications: true
+related_publications: false
 ---
 
 In collaboration with: Roberto G. de Almeida, Paul Stan, and Caitlyn Antal at the [Psycholinguistics & Cognition Lab](https://psycholinguistics.weebly.com/people.html). 
