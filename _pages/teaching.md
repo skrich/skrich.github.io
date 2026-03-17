@@ -8,9 +8,7 @@ nav_order: 6
 calendar: true
 ---
 
-profile:
-  align: right
-  image: prof_pic.jpg
+{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 
 **Classes taught**
 
