@@ -12,7 +12,7 @@ calendar: true
 
 **Instructor of Record**
 
-* Variation in Language Processing (Summer 2023; Summer 2023)
+* Variation in Language Processing (Summer 2025; Summer 2023)
 * Psycholinguistics II (Winter 2024)
 
 **Teaching Assistant**
