@@ -8,7 +8,8 @@ nav_order: 6
 calendar: true
 ---
 
-{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+A list of courses taught along with additional pedagogical training. All took place at the University of California, Santa Cruz.
 
 **Instructor of Record**
 
