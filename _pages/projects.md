@@ -2,12 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A selection of finished and ongoing projects. ⚠️ Page under construction, more to come soon ⚠️
+description: A selection of finished and ongoing projects. 
 nav: true
 nav_order: 3
 display_categories: [psycholinguistics research, pedagogy]
 horizontal: false
 ---
+
+⚠️ Page under construction, more to come soon ⚠️
 
 <!-- pages/projects.md -->
 <div class="projects">
