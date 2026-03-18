@@ -27,10 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I'm a linguist, educator, researcher, and data analyst working on projects involving language comprehension, memory, and reading. I've just completed a postdoctoral research fellowship at Concordia University, and before then earned my Ph.D. in Linguistics at the University of California, Santa Cruz in June 2024.
+Welcome! I'm a linguist, educator, researcher, and data analyst working on projects involving language comprehension, memory, and reading. 
+
+I've just completed a postdoctoral research fellowship in the [Psycholinguistics & Cognition Lab](https://psycholinguistics.weebly.com/) at Concordia University, where I now continue to stay active as a researcher.
+
+Before coming to Concordia, I completed my Ph.D. in Linguistics at the University of California, Santa Cruz, in June 2024 where I worked with [Matt Wagers](https://people.ucsc.edu/~mwagers/). My dissertation focused on the role of memory in language processing (and can be found [here](https://escholarship.org/uc/item/6h22g6wt)).
+
+You can find my academic CV [here](https://github.com/skrich/skrich.github.io/blob/main/assets/pdf/skrich_cv_march2026.pdf), my non-academic CV [here](https://github.com/skrich/skrich.github.io/blob/main/assets/pdf/skrich_cv_march2026.pdf), and a recent song of choice [here](https://youtu.be/WcNpgSNhJk8?si=x2CfgTInx6idl4rW).
 
 <b>Contact:</b> stephanie.ks.rich [at] gmail [dot] com
 
-<b>Currently based in:</b> Montreal, QC.
+<b>Currently based in:</b> Montréal, QC.
 
 <b>Find me:</b>   [LinkedIn](https://www.linkedin.com/in/stephaniekrich/) \| [OSF](https://osf.io/6d68j/) \| [Google Scholar](https://scholar.google.com/citations?user=G0sSZ3YAAAAJ&hl) \| [ORCHID](https://orcid.org/0000-0003-2961-2265)
