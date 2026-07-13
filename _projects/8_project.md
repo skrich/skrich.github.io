@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Scaffolding: teaching writing
+title: Variation in Language Processing
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
 importance: 1
