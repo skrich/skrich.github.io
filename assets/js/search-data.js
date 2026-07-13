@@ -42,7 +42,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-memory",
           title: 'memory',
-          description: "a project with a background image and giscus comments",
+          description: "encoding and retrieval during language processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-prediction",
