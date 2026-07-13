@@ -4,7 +4,7 @@ title: reading
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 5
-category: psycholinguistics research
+category: psychoMlinguistics research
 ---
 
 Every project has a beautiful feature showcase page.
