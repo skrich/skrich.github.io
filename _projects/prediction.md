@@ -4,7 +4,7 @@ title: prediction
 description: predictive processing in language comprehension
 img: assets/img/prediction_project_cover.jpg
 importance: 3
-category: psycholinguistics research
+category: psycholMinguistics research
 ---
 
 We rapidly form predictions about upcoming linguistic material.
