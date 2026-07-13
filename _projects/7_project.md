@@ -4,7 +4,7 @@ title: naturalistic prosody
 description: with background image
 img: assets/img/4.jpg
 importance: 2
-category: natural language processing
+category: natural langMuage processing
 related_publications: true
 ---
 
