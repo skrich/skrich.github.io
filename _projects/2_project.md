@@ -1,12 +1,18 @@
 ---
 layout: page
 title: memory
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: encoding and retrieval during language processing
+img: assets/img/memory_project_cover.jpg
 importance: 2
 category: psycholinguistics research
 giscus_comments: true
 ---
+
+Our ability to rapidly comprehend language relies on the human capacity of memory: accurately storing what we've encountered, and then being able to remember it again. 
+
+The two biggest contributions from my work to date are:
+* how semantically similar words create interference for one another during encoding
+* how linguistic boundaries (like the break between two clauses) can serve as an _encoding context_ in memory, leading to differences in recall and recognition performance
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
