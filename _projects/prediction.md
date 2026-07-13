@@ -1,12 +1,22 @@
 ---
 layout: page
 title: prediction
-description: a project that redirects to another website
-img: assets/img/7.jpg
+description: predictive processing in language comprehension
+img: assets/img/prediction_project_cover.jpg
 redirect: https://unsplash.com
 importance: 3
 category: psycholinguistics research
 ---
+
+We rapidly form predictions about upcoming linguistic material.
+
+In my work, I've shown:
+* how readers rapidly revise predictions based on counterexpectational markers like _although_
+* how representations of previously predicted words linger in memory and can influence future language processing
+* filler gap processing prediction (remember what this is)
+
+
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
