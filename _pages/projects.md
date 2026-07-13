@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of finished and ongoing projects. 
 nav: true
 nav_order: 3
-display_categories: [psycholinguistics research, pedagogy]
+display_categories: [psycholinguistics research, natural language processing, pedagogy]
 horizontal: false
 ---
 
