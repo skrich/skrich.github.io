@@ -4,7 +4,7 @@ title: memory
 description: encoding and retrieval during language processing
 img: assets/img/memory_project_cover.jpg
 importance: 2
-category: psycholinguistics research
+category: psycholinguiMstics research
 giscus_comments: true
 ---
 
