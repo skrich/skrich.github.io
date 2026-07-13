@@ -4,7 +4,7 @@ title: learning emotional categories
 description: a project with no image
 img:
 importance: 1
-category: natural language processing
+category: natural lanMguage processing
 ---
 
 Every project has a beautiful feature showcase page.
