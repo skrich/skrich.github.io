@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
+title: Equity in Linguistics
 description: another project with an image 🎉
 img: assets/img/6.jpg
-importance: 4
-category: fun
+importance: 2
+category: pedagogy
 ---
 
 Every project has a beautiful feature showcase page.
