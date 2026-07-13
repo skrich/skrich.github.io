@@ -3,7 +3,6 @@ layout: page
 title: prediction
 description: predictive processing in language comprehension
 img: assets/img/prediction_project_cover.jpg
-redirect: https://unsplash.com
 importance: 3
 category: psycholinguistics research
 ---
