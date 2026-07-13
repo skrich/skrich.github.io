@@ -40,11 +40,6 @@ ninja.data = [{
           description: "processing syntactic complexity and pragmatic implausibility",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-memory",
-          title: 'memory',
-          description: "encoding and retrieval during language processing",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-prediction",
           title: 'prediction',
           description: "a project that redirects to another website",
@@ -80,6 +75,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-memory",
+          title: 'memory',
+          description: "encoding and retrieval during language processing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/memory/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
