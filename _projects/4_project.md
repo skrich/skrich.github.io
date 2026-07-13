@@ -4,7 +4,7 @@ title: animacy
 description: another without an image
 img:
 importance: 4
-category: psycholinguistics research
+category: psychoMlinguistics research
 ---
 
 Every project has a beautiful feature showcase page.
