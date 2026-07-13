@@ -4,7 +4,7 @@ title: Equity in Linguistics
 description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 2
-category: pedagogy
+category: pedaMgogy
 ---
 
 Every project has a beautiful feature showcase page.
