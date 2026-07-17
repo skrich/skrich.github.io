@@ -18,6 +18,8 @@ The goals of this group are to address gaps in equity within the department, in 
 
 The group also collects resources to be shared within the department to streamline the process of adopting new teaching and research practices.
 
+To read more about past, current, and future projects by EquiL, you can visit their website [here](https://sites.google.com/ucsc.edu/equil/home)!
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
