@@ -67,9 +67,9 @@ ninja.data = [{
               window.location.href = "/projects/8_project/";
             },},{id: "projects-equity-in-linguistics",
           title: 'Equity in Linguistics',
-          description: "another project with an image 🎉",
+          description: "a working group on pedagogy, mentorship, and research",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/EquiL/";
             },},{id: "projects-memory",
           title: 'memory',
           description: "encoding and retrieval during language processing",
